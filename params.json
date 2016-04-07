@@ -1,0 +1,6 @@
+{
+  "name": "Single",
+  "tagline": "Pico CMS theme for personal sites",
+  "body": "# Single\r\nPico CMS theme for personal sites\r\n\r\nDownload the single folder, extract it to the themes folder of your Pico installation, and change the following setting within your config.php:\r\n`$config['theme'] = 'single';`\r\n\r\nFor the content download our `index.md`, upload it in the content folder and make your changes.\r\n\r\nFor the Social Icons we use [IcoMoon](https://icomoon.io/).  You can find a list of all available icons [here](https://icomoon.io/#preview-free).\r\n\r\nRecommended size for background image: 1920x1384 px\r\n\r\n### Demo : http://freehtml5.co/demos/single/\r\n\r\n## Screenshot\r\n\r\n![Single Screenshot](http://img15.hostingpics.net/pics/620484singlescreenshot.jpg)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
